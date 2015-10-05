@@ -12,4 +12,9 @@ public class GridCubeEvents : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void OnMouseEnter () {
+		Debug.Log ("Mouse on");
+		//DestroyObject (this.gameObject);
+	}
 }
