@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GridCubeEvents.cs">
     <Files>
-      <File FileName="Assets\Scripts\SceneInit.cs" Line="21" Column="18" />
-      <File FileName="Assets\Scripts\GridCubeEvents.cs" Line="17" Column="26" />
+      <File FileName="Assets\Scripts\GridCubeEvents.cs" Line="24" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
